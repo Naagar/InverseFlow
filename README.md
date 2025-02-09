@@ -36,5 +36,19 @@ To edit the websites contents edit the `index.html` file. It contains different 
 ## Acknowledgments
 Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
 
+## Cite:
+      @InProceedings{nagar2025inverseflow,
+        title = {Parallel Backpropagation for Inverse of a Convolution with Application to Normalizing Flows},
+        author = Nagar, Sandeep and Varma, Girish}
+        booktitle = {Proceedings of The 28th International Conference on Artificial Intelligence and Statistics},
+        year = {2025},
+        volume = {239},
+        series = {Proceedings of Machine Learning Research},
+        month = {03--05 May},
+        publisher = {PMLR},
+        pdf = {https://arxiv.org/pdf/2410.14634},
+        url = {https://arxiv.org/abs/2410.14634},
+      }
+
 ## Website License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
