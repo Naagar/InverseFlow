@@ -1,7 +1,7 @@
 #  Inverse-Flow project
 This is an Inverse-Flow paper project page.
 
-url: [projectPage_InverseFlow](https://naagar.github.io/projectPage_InverseFlow/)
+url: [InverseFlow](https://naagar.github.io/InverseFlow/)
 
 
 
